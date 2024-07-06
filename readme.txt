@@ -1,4 +1,4 @@
-=== WPForms Custom Submissions ===
+##=== WPForms Custom Submissions ===
 Contributors: Aryan Pariyar
 Donate link: https://drive.google.com/file/d/1fEid_es51mWWSgF72s2lhRrnUDQS6TJP/view?usp=sharing
 Tags: wpforms, submissions, custom submissions, form entries, search, pagination
